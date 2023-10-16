@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+.wrapper-selectors {
+    margin-bottom: 1rem;
+}
+
+select {
+    margin-bottom: 1rem;
+}
+
+td, th { 
+    padding: 0 .5em;
+}
+
+th {
+    text-align: left;
+}
+
+select {
+    display: block;
+}

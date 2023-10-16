@@ -4,6 +4,7 @@
 
 .wrapper-selectors {
     margin-bottom: 1rem;
+    padding-right: 1rem;
 }
 
 select {
